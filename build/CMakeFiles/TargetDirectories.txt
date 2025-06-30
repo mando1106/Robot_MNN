@@ -1,0 +1,3 @@
+/home/mando/Phd/robot_PISMP_MNN_ARM/build/CMakeFiles/main.dir
+/home/mando/Phd/robot_PISMP_MNN_ARM/build/CMakeFiles/edit_cache.dir
+/home/mando/Phd/robot_PISMP_MNN_ARM/build/CMakeFiles/rebuild_cache.dir
