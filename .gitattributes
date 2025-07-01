@@ -1,0 +1,6 @@
+*.cpp linguist-language=C++
+*.h   linguist-language=C++
+*.hpp linguist-language=C++
+
+# 忽略 Makefile 的语言权重
+Makefile linguist-documentation
